@@ -21,4 +21,4 @@ ELISA is a lab inventory management app designed to improve the efficiency of Se
 This project is designed to help students visualize the flow of courses required to complete two majors, Nursing and Information System. The program reads course information from two text files, major1.txt, and major2.txt, and visually represents the course dependencies. It also allows users to input their desired maximum number of credits per quarter and starting quarter, providing an outline of how to take the courses under these constraints.
 
 Here is the demo on how to run the program in Windows Operating System (Click on the thumbnail below).
-[![Flowchar Demo Video](demo.png)](https://www.youtube.com/watch?v=_16q0RhxFSE)
+[![Flowchar Demo Video](https://user-images.githubusercontent.com/92423514/231321350-6ec877b1-8970-4586-970f-aa7ababe3b67.png)](https://www.youtube.com/watch?v=_16q0RhxFSE)
