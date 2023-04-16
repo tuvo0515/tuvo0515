@@ -1,7 +1,9 @@
 # 👋 Hello! This is Tu Vo 
 
 ## 📚 About Me
-I'm a fourth-year Computer Science student with a strong passion for problem-solving and working with numbers. My interest in programming began at the age of 10, when I was first introduced to the Pascal language. This experience sparked my enthusiasm for technology and its potential to simplify our daily lives. My motivation stems from my love for coding and my curiosity for discovering innovative solutions to complex challenges.
+As a fourth-year Computer Science student, my passion lies in problem-solving and working with numbers. I've had the opportunity to participate in hands-on projects that allowed me to apply my skills in real-world scenarios.
+
+During my academic journey, I have also become proficient in project management tools like Notion, Trello, and Jira, further developing my ability to organize, document, and streamline development processes. My experience as a Scrum Master has provided me with valuable insights into Agile methodologies and the importance of collaboration and efficiency in the software development process.
 
 ## 💻 Skills
 Programming Languages: C++, Python, R, Java, JavaScript, CSS
