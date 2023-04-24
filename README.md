@@ -6,8 +6,8 @@ As a fourth-year Computer Science student, my passion lies in problem-solving an
 During my academic journey, I have also become proficient in project management tools like Notion, Trello, and Jira, further developing my ability to organize, document, and streamline development processes. My experience as a Scrum Master has provided me with valuable insights into Agile methodologies and the importance of collaboration and efficiency in the software development process.
 
 ## 💻 Skills
-Programming Languages: C++, Python, R, Java, JavaScript, CSS
-Project Management Tools: Notion, Trello, Jira
+- Programming Languages: C++, Python, R, Java, JavaScript, CSS
+- Project Management Tools: Notion, Trello, Jira
 
 ## 🌟 Projects and Experience
 Throughout my academic journey, I have honed my skills in various programming languages while participating in hands-on projects that allowed me to apply these skills in real-world scenarios. Some of the projects I've worked on include:
