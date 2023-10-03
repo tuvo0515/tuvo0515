@@ -12,7 +12,7 @@ I'm always open to connecting with fellow developers, mentors, or anyone interes
 - Programming Languages: C++, Python, R, Java, JavaScript, CSS
 - Project Management Tools: Notion, Trello, Jira
 
-## 🌟 Projects and Experience
+## 🌟 Projects and Experience - Team 21st Project
 Throughout my academic journey, I have honed my skills in various programming languages while participating in hands-on projects that allowed me to apply these skills in real-world scenarios. Some of the projects I've worked on include:
 
 ### ELISA
@@ -24,7 +24,7 @@ As the Scrum Master for this project, I effectively planned each sprint and faci
 **Here is the our product video (Click on the thumbnail below).**
 [![ELISA Product Video](https://user-images.githubusercontent.com/92423514/231245998-23aacf48-f7b0-4810-b14b-b4676f5d44a3.png)](https://www.youtube.com/watch?v=dxogVGXtTJs)
 
-### Course Flowchart
+### Course Flowchart - Personal Project
 This project is designed to help students visualize the flow of courses required to complete two majors, Nursing and Information System. The program reads course information from two text files, major1.txt, and major2.txt, and visually represents the course dependencies. It also allows users to input their desired maximum number of credits per quarter and starting quarter, providing an outline of how to take the courses under these constraints.
 
 **Here is the demo on how to run the program in Windows Operating System (Click on the thumbnail below).**
