@@ -30,7 +30,7 @@ This project is designed to help students visualize the flow of courses required
 **Here is the demo on how to run the program in Windows Operating System (Click on the thumbnail below).**
 [![Flowchar Demo Video](https://user-images.githubusercontent.com/92423514/231321495-6e70c142-3e46-41b8-8b58-88985d5ada66.png)](https://www.youtube.com/watch?v=_16q0RhxFSE)
 
-### Java SE 8 Programmer - Associate certification (Internship alternative)
+### Java SE 8 Programmer - Associate certification (Internship alternative, working on it)
 In my current role as the Capstone Project Manager, I recognize the importance of continuous skill development. Pursuing the Java SE 8 Programmer - Associate certification aligns seamlessly with this ethos. This certification offers the following advantages:
 
 1. **Resource Management**: It provides an opportunity to manage resources efficiently, adhering to genuine industry or research timelines and budgetary constraints. Such experience will be invaluable in any professional setting.
