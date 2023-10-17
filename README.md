@@ -1,7 +1,7 @@
 # 👋 Hello! This is Tu Vo 
 
 ## 📚 About Me
-I'm a fourth-year Computer Science student, with an expected graduation in **[Your Graduation Year]**. My passion lies in problem-solving and working with numbers.
+I'm a fourth-year Computer Science student, with an expected graduation in **the end of 2023**. My passion lies in problem-solving and working with numbers.
 
 - **Project Management Tools**: **Notion**, **Trello**, **Jira**
 - **Experience**: Serving as a **Scrum Master**, I've gained insights into Agile methodologies.
@@ -17,7 +17,7 @@ Connect with me on [Tu Vo's LinkedIn](https://www.linkedin.com/in/tu-h-vo/) or e
 ## 🌟 Projects and Experience
 
 ### ELISA - Team 21st Project
-*Team size: [Your Team Size]*  
+*Team size: 5*  
 - Designed a lab inventory management app.
 - Addressed issues such as biased reporting, manual coordination, and equipment tracking.
 - **Role**: **Scrum Master**
