@@ -17,7 +17,7 @@ Connect with me on [Tu Vo's LinkedIn](https://www.linkedin.com/in/tu-h-vo/) or e
 ## 🌟 Projects and Experience
 
 ### ELISA - Team 21st Project
-*Team size: 5*  
+*Team size: 5 people*  
 - Designed a lab inventory management app.
 - Addressed issues such as biased reporting, manual coordination, and equipment tracking.
 - **Role**: **Scrum Master**
